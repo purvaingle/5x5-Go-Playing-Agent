@@ -1,5 +1,5 @@
 # 5x5-Go-Playing-Agent
-Click [here](https://github.com/purvaingle/5x5-Go-Playing-Agent/blob/main/Problem_Statement.pdf) for the detaikled problem description.
+Click [here](https://github.com/purvaingle/5x5-Go-Playing-Agent/blob/main/Problem_Statement.pdf) for the detailed problem description.
 
 • Implemented Minimax algorithm using Alpha-beta Pruning from scratch.
 
