@@ -1,7 +1,8 @@
 # 5x5-Go-Playing-Agent
 Click [here]() for the detaikled problem description.
 
-• Implemented Minimax algorithm using Alpha-beta Pruning from scratch
+• Implemented Minimax algorithm using Alpha-beta Pruning from scratch.
+
 • Competed against some basic as well as more advanced AI agents such as: 
 - Random Player: Moves randomly.
 - Greedy Player: Places the stone that captures the maximum number of enemy stones
